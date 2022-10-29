@@ -3,7 +3,7 @@
   box-sizing: border-box;
 }
 
-body {
+.layout {
   margin: 0;
   padding: 0;
   text-align: center;
@@ -13,11 +13,11 @@ body {
 }
 /* Link Styles */
 
-a {
+.link {
   text-decoration: none;
   color: #0499ff;
 }
-a:hover {
+.link:hover {
   color: #6633ff;
 }
 
@@ -139,11 +139,9 @@ ol {
   background-color: white;
   width: 500px;
   max-width: 80%;
-}
-
-.modal.active {
   transform: translate(-50%, -50%) scale(1);
 }
+
 
 .modal-header {
   padding: 10px 15px;
@@ -195,11 +193,11 @@ ol {
   margin: 2px;
 }
 
-a:hover {
+.links:hover {
   color: #beff33;
 }
 
-#overlay {
+.overlay {
   position: fixed;
   opacity: 0;
   transition: 200ms ease-in-out;
@@ -209,12 +207,10 @@ a:hover {
   bottom: 0;
   background: rgba(0, 0, 0, 0.5);
   pointer-events: none;
-}
-
-#overlay.active {
   opacity: 1;
   pointer-events: all;
 }
+
 
 .techcard {
   display: flex;

@@ -6,10 +6,14 @@ const Nav = () => {
       <ul className="nav">
         <li className="name">Front-End Web Development</li>
         <li>
-          <Link to="home">My Profile</Link>
+          <Link className="link" to="home">
+            My Profile
+          </Link>
         </li>
         <li>
-          <Link to="contact">Contact</Link>
+          <Link className="link" to="contact">
+            Contact
+          </Link>
         </li>
       </ul>
     </nav>
