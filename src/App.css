@@ -267,6 +267,10 @@ ul.skills {
   background-color: green;
 }
 
+.reactColor {
+  background-color:rgba(0, 0, 0, 0.5);
+}
+
 .modal-header {
   background: black;
   color: white;

@@ -4,10 +4,10 @@ const Nav = () => {
   return (
     <nav className="main-nav">
       <ul className="nav">
-        <li className="name">Front-End Web Development</li>
+        <li className="name">Software Engineer: Front-End Development</li>
         <li>
           <Link className="link" to="home">
-            My Profile
+            My Work
           </Link>
         </li>
         <li>

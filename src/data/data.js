@@ -1,7 +1,16 @@
+import Proj1 from "../images/Proj1.png";
+import Proj2 from "../images/Proj2.png";
+import Proj3 from "../images/Proj3.png";
+import Proj4 from "../images/Proj4.png";
+import Proj5 from "../images/Proj5.png";
+import Proj6 from "../images/Proj6.png";
+import Proj7 from "../images/Proj7.png";
+import Proj8 from "../images/Proj8.png";
+
 const data = [
   {
     title: "Personal Profile Page",
-    imgUrl: "../images/Proj1.png",
+    imgUrl: Proj1,
     description:
       "We created a custom personal online profile page by adding graphics and custom text.  We learned the importance of using Cascading Style Sheets",
     technologies: ["HTML", "CSS"],
@@ -10,7 +19,7 @@ const data = [
   },
   {
     title: "Mobile-first Responsive Layout",
-    imgUrl: "../images/Proj2.png",
+    imgUrl: Proj2,
     description:
       "We designed a webpage that looked and functioned well on multiple screen sizes.  We learned the importance of the mobile-first approach.",
     technologies: ["HTML", "CSS"],
@@ -19,7 +28,7 @@ const data = [
   },
   {
     title: "An Online Registration Form",
-    imgUrl: "../images/Proj3.png",
+    imgUrl: Proj3,
     description:
       "We designed and styled a form and built a responsive, mobile-first registration form using a multitude of HTML form elements.",
     technologies: ["HTML", "CSS"],
@@ -28,7 +37,7 @@ const data = [
   },
   {
     title: "Web Style Guide",
-    imgUrl: "../images/Proj4.png",
+    imgUrl: Proj4,
     description:
       "We learned the importance of SASS and how it helps us style web pages with CSS easier and faster",
     technologies: ["HTML", "CSS", "SASS"],
@@ -37,7 +46,7 @@ const data = [
   },
   {
     title: "An Interactive Photo Gallery",
-    imgUrl: "../images/Proj5.png",
+    imgUrl: Proj5,
     description:
       "We created an interactive image gallery.  We also added a search feature to filter through photos.",
     technologies: ["HTML", "CSS", "Javascript"],
@@ -46,7 +55,7 @@ const data = [
   },
   {
     title: "Game Show App",
-    imgUrl: "../images/Proj6.png",
+    imgUrl: Proj6,
     description:
       "We created a random word guessing game.  There is a counter built into the application to keep score of incorrect guesses.",
     technologies: ["HTML", "CSS", "Javascript"],
@@ -55,7 +64,7 @@ const data = [
   },
   {
     title: "WebApp Dashboard",
-    imgUrl: "../images/Proj7.png",
+    imgUrl: Proj7,
     description:
       "We built an interactive dashboard using other web techniques including SVG graphics and Javascript programming.  We created charts, tables, and other user interface components focusing on interactivity and usability.",
     technologies: ["HTML", "CSS", "Javascript"],
@@ -64,7 +73,7 @@ const data = [
   },
   {
     title: "API for Employee Directory",
-    imgUrl: "../images/Proj8.png",
+    imgUrl: Proj8,
     description:
       "We created an employee directory by communicating with a third-party API.  We also created a modal which displayed the specific employee's contact information.",
     technologies: ["HTML", "CSS", "Javascript"],
