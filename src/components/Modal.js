@@ -1,8 +1,7 @@
 const Modal = (props) => {
   const { handleCloseModal, modalData } = props;
-  const { description, githubUrl, imgUrl, projectUrl, technologies, title } =
-    modalData;
-  console.log(modalData);
+  const { description, githubUrl, projectUrl, title } = modalData;
+
   return (
     <>
       <div className="modal-header">
@@ -13,10 +12,10 @@ const Modal = (props) => {
       </div>
       <div className="modal-body">{description}</div>
       <div className="links-wrapper">
-        <a className="links" href={projectUrl} target="_blank">
+        <a className="links" href={projectUrl} target="_blank" rel="noreferrer">
           View Project
         </a>
-        <a className="links" href={githubUrl} target="_blank">
+        <a className="links" href={githubUrl} target="_blank" rel="noreferrer">
           View Code
         </a>
       </div>

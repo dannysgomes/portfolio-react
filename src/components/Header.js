@@ -8,7 +8,7 @@ const Header = () => {
 
   let message = "";
   switch (true) {
-    case pathname === "/home":
+    case pathname === "/":
       message = "My Work";
       break;
     case pathname === "/contact":

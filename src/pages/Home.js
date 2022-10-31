@@ -3,13 +3,12 @@ import BioCard from "../components/BioCard";
 import data from "../data/data";
 import ProjectCard from "../components/ProjectCard";
 import Modal from "../components/Modal";
-import SocialLinks from "../components/SocialLinks";
 
 const Home = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [modalData, setModalData] = useState({});
+
   const handleModal = (index) => {
-    console.log("index", index);
     setModalData(data[index]);
     setIsOpen(true);
   };
@@ -18,10 +17,9 @@ const Home = () => {
     setIsOpen(false);
     setModalData({});
   };
-  console.log("isOpen", isOpen);
 
   useEffect(() => {
-    //  console.log(modalData);
+    //  future code
   }, [modalData]);
 
   return (

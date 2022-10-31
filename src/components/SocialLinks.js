@@ -5,6 +5,7 @@ const SocialLinks = () => (
         <a
           href="http://twitter.com/iamdaniel85"
           target="_blank"
+          rel="noreferrer"
           className="social twitter"
         >
           Twitter
@@ -13,6 +14,8 @@ const SocialLinks = () => (
       <li>
         <a
           href="https://www.linkedin.com/in/daniel-gomes-a6040673"
+          target="_blank"
+          rel="noreferrer"
           className="social linkedin"
         >
           LinkedIn
@@ -21,6 +24,8 @@ const SocialLinks = () => (
       <li>
         <a
           href="https://github.com/dannysgomes?tab=repositories"
+          target="_blank"
+          rel="noreferrer"
           className="social github"
         >
           Github
@@ -29,6 +34,8 @@ const SocialLinks = () => (
       <li>
         <a
           href="https://www.facebook.com/danny.s.gomes/"
+          target="_blank"
+          rel="noreferrer"
           className="social facebook"
         >
           Facebook

@@ -1,5 +1,3 @@
-import pic from "../images/Proj1.png";
-
 const ProjectCard = (props) => {
   const { index } = props;
   const { imgUrl, technologies, title } = props.project;
