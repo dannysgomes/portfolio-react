@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.9d4f1219.css",
-    "main.js": "/portfolio-react/static/js/main.0d5875ac.js",
-    "static/js/787.aeca62f9.chunk.js": "/portfolio-react/static/js/787.aeca62f9.chunk.js",
-    "static/media/Proj1.png": "/portfolio-react/static/media/Proj1.7ccceb63a01aff584419.png",
-    "static/media/Proj5.png": "/portfolio-react/static/media/Proj5.017c68daea29cc76fe7b.png",
-    "static/media/ResizedGOMES.png": "/portfolio-react/static/media/ResizedGOMES.2de207504740e7c643ae.png",
-    "static/media/Proj4.png": "/portfolio-react/static/media/Proj4.64981bcaad0ac590cd5b.png",
-    "static/media/Proj8.png": "/portfolio-react/static/media/Proj8.60cf6e039208dceed5d5.png",
-    "static/media/spartanburg.jpg": "/portfolio-react/static/media/spartanburg.0cd48d2ec8168c22b9c7.jpg",
-    "static/media/Proj2.png": "/portfolio-react/static/media/Proj2.7e3d2e6b94c2aa06c495.png",
-    "static/media/Proj7.png": "/portfolio-react/static/media/Proj7.4a70e83cdeec8f35824b.png",
-    "static/media/Proj3.png": "/portfolio-react/static/media/Proj3.64a2b22a83b8ec74fde5.png",
-    "static/media/Proj6.png": "/portfolio-react/static/media/Proj6.2342b42cabbbe6dae234.png",
-    "static/media/github.svg": "/portfolio-react/static/media/github.0e657da5099bb6946255.svg",
-    "static/media/twitter.svg": "/portfolio-react/static/media/twitter.f47c3e1258482007ec60.svg",
-    "static/media/linkedin.svg": "/portfolio-react/static/media/linkedin.8561cc1e87918c68ccca.svg",
-    "static/media/facebook.svg": "/portfolio-react/static/media/facebook.237cad12b9354e6f71ee.svg",
-    "index.html": "/portfolio-react/index.html",
-    "main.9d4f1219.css.map": "/portfolio-react/static/css/main.9d4f1219.css.map",
-    "main.0d5875ac.js.map": "/portfolio-react/static/js/main.0d5875ac.js.map",
-    "787.aeca62f9.chunk.js.map": "/portfolio-react/static/js/787.aeca62f9.chunk.js.map"
+    "main.css": "/static/css/main.439b963a.css",
+    "main.js": "/static/js/main.d538fa51.js",
+    "static/js/787.aeca62f9.chunk.js": "/static/js/787.aeca62f9.chunk.js",
+    "static/media/Proj1.png": "/static/media/Proj1.7ccceb63a01aff584419.png",
+    "static/media/Proj5.png": "/static/media/Proj5.017c68daea29cc76fe7b.png",
+    "static/media/ResizedGOMES.png": "/static/media/ResizedGOMES.2de207504740e7c643ae.png",
+    "static/media/Proj4.png": "/static/media/Proj4.64981bcaad0ac590cd5b.png",
+    "static/media/Proj8.png": "/static/media/Proj8.60cf6e039208dceed5d5.png",
+    "static/media/spartanburg.jpg": "/static/media/spartanburg.0cd48d2ec8168c22b9c7.jpg",
+    "static/media/Proj2.png": "/static/media/Proj2.7e3d2e6b94c2aa06c495.png",
+    "static/media/Proj7.png": "/static/media/Proj7.4a70e83cdeec8f35824b.png",
+    "static/media/Proj3.png": "/static/media/Proj3.64a2b22a83b8ec74fde5.png",
+    "static/media/Proj6.png": "/static/media/Proj6.2342b42cabbbe6dae234.png",
+    "static/media/github.svg": "/static/media/github.0e657da5099bb6946255.svg",
+    "static/media/twitter.svg": "/static/media/twitter.f47c3e1258482007ec60.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.8561cc1e87918c68ccca.svg",
+    "static/media/facebook.svg": "/static/media/facebook.237cad12b9354e6f71ee.svg",
+    "index.html": "/index.html",
+    "main.439b963a.css.map": "/static/css/main.439b963a.css.map",
+    "main.d538fa51.js.map": "/static/js/main.d538fa51.js.map",
+    "787.aeca62f9.chunk.js.map": "/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d4f1219.css",
-    "static/js/main.0d5875ac.js"
+    "static/css/main.439b963a.css",
+    "static/js/main.d538fa51.js"
   ]
 }
